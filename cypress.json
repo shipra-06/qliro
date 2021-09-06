@@ -1,0 +1,8 @@
+{
+    "projectId" :"cypress",
+    "fixturesFolder": "cypress/fixtures",
+    "integrationFolder": "cypress/integration",
+    "screenshotsFolder": "cypress/screenshots",
+    "videosFolder": "cypress/videos",
+    "downloadsFolder": "cypress/downloads"
+  }
